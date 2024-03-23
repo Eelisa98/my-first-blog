@@ -44,3 +44,6 @@ Successfully installed Django-3.2.25 asgiref-3.7.2 pytz-2024.1 sqlparse-0.4.4
 
 
 Git API a12a0cb259bb56b0ffba95751f7141a9fff4aeeb
+
+
+https://github.com/Eelisa98/my-first-blog.git
