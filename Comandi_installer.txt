@@ -1,0 +1,46 @@
+C:\Users\Erica.LAPTOP-04CU0J35\djangogirls>python -m venv elisavenv
+
+C:\Users\Erica.LAPTOP-04CU0J35\djangogirls>elisavenv\Scripts\activate
+
+(elisavenv) C:\Users\Erica.LAPTOP-04CU0J35\djangogirls>
+(elisavenv) C:\Users\Erica.LAPTOP-04CU0J35\djangogirls>
+(elisavenv) C:\Users\Erica.LAPTOP-04CU0J35\djangogirls>
+(elisavenv) C:\Users\Erica.LAPTOP-04CU0J35\djangogirls>dir
+ Il volume nell'unità C è Windows-SSD
+ Numero di serie del volume: 4892-E12E
+
+ Directory di C:\Users\Erica.LAPTOP-04CU0J35\djangogirls
+
+03/19/2024  12:59 AM    <DIR>          .
+03/19/2024  12:59 AM    <DIR>          ..
+03/19/2024  12:44 AM    <DIR>          elisavenv
+03/19/2024  01:03 AM                16 requirements.txt
+               1 File             16 byte
+               3 Directory  132,702,674,944 byte disponibili
+
+(elisavenv) C:\Users\Erica.LAPTOP-04CU0J35\djangogirls>pip install -r requirements.txt
+Collecting Django~=3.2.10 (from -r requirements.txt (line 1))
+  Downloading Django-3.2.25-py3-none-any.whl.metadata (4.1 kB)
+Collecting asgiref<4,>=3.3.2 (from Django~=3.2.10->-r requirements.txt (line 1))
+  Downloading asgiref-3.7.2-py3-none-any.whl.metadata (9.2 kB)
+Collecting pytz (from Django~=3.2.10->-r requirements.txt (line 1))
+  Downloading pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting sqlparse>=0.2.2 (from Django~=3.2.10->-r requirements.txt (line 1))
+  Downloading sqlparse-0.4.4-py3-none-any.whl.metadata (4.0 kB)
+Downloading Django-3.2.25-py3-none-any.whl (7.9 MB)
+   ---------------------------------------- 7.9/7.9 MB 5.9 MB/s eta 0:00:00
+Downloading asgiref-3.7.2-py3-none-any.whl (24 kB)
+Downloading sqlparse-0.4.4-py3-none-any.whl (41 kB)
+   ---------------------------------------- 41.2/41.2 kB 2.1 MB/s eta 0:00:00
+Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+   ---------------------------------------- 505.5/505.5 kB 6.3 MB/s eta 0:00:00
+Installing collected packages: pytz, sqlparse, asgiref, Django
+Successfully installed Django-3.2.25 asgiref-3.7.2 pytz-2024.1 sqlparse-0.4.4
+
+(elisavenv) C:\Users\Erica.LAPTOP-04CU0J35\djangogirls>
+
+
+
+
+
+Git API a12a0cb259bb56b0ffba95751f7141a9fff4aeeb
